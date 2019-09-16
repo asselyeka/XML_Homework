@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data.StudentData>
+  <Student>
+    <Id>1</Id>
+    <FullName>Попов Иван Васильевич</FullName>
+    <MobileNumber>87074563214</MobileNumber>
+    <Course>4</Course>
+    <StartDate>16.02.2015</StartDate>
+  </Student>
+  <Student>
+    <Id>1</Id>
+    <FullName>Алексеев Сергей Николаевич</FullName>
+    <MobileNumber>87453336521</MobileNumber>
+    <Course>2</Course>
+    <StartDate>21.05.2017</StartDate>
+  </Student>
+</data.StudentData>

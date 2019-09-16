@@ -1,0 +1,16 @@
+[
+  {
+    "Id":1,
+    "FullName": "Попов Иван Васильевич",
+    "MobileNumber": 87074563214,
+    "Course": 4,
+    "StartDate": "16.02.2015"
+  },
+  {
+    "Id": 1,
+    "FullName": "Алексеев Сергей Николаевич",
+    "MobileNumber": 87453336521,
+    "Course": 2,
+    "StartDate": "21.05.2017"
+  }
+]
